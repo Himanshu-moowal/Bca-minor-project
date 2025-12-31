@@ -1,4 +1,11 @@
 # Bca-minor-project
+Group code: HA
+NAME:1.HIMANSHU MOOWAL
+     2.AAYUSH GANGWAAL
+
+
+
+Description:
 The credit card approval model
 The Credit Card Approval Prediction System is a minor project developed to predict whether a customer’s credit card application will be approved or rejected based on various financial and personal attributes.
 This project uses Machine Learning techniques to analyze applicant data and assist banks or financial institutions in making faster and more accurate decisions.
